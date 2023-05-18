@@ -96,6 +96,9 @@ In this project,A word replacement program is a software application that allows
 
 In this project, A random password generator made using Python is a powerful tool that can create strong and unique passwords for various applications. The program uses Python's built-in libraries and third-party packages to generate random strings of characters, digits, and symbols, and can be customized to meet specific security requirements. The random password generator can help users to enhance the security of their online accounts, protect sensitive data, and reduce the risk of identity theft or hacking attacks.
 
+#### Coffee Machine
+In this project, A coffee machine just like a real nade world is made by python. In this user have to enter the coffee name, then insert money .Then the program evalautes the money if it is enough or not then it gives coffee to the user and gives the change to the user. 
+
 ### Contributing
 
 If you would like to contribute to this repository, please feel free to submit a pull request. Contributions are always welcome!
