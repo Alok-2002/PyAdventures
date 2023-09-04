@@ -1,5 +1,14 @@
 ### PyAdventures
 
+![GitHub](https://img.shields.io/github/license/alok-2002/PyAdventures)
+![GitHub stars](https://img.shields.io/github/stars/alok-2002/PyAdventures)
+![GitHub forks](https://img.shields.io/github/forks/alok-2002/PyAdventures)
+![GitHub contributors](https://img.shields.io/github/contributors/alok-2002/PyAdventures)
+![GitHub repo size](https://img.shields.io/github/repo-size/alok-2002/PyAdventures)
+
+
+
+
 Welcome to PyAdventures! This repository is dedicated to providing beginner-level Python projects that are fun and educational. These projects are designed to help new Python programmers learn and develop their skills while having fun.
 
 ## Installation
