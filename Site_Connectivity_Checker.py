@@ -10,7 +10,7 @@ def Site_Connectivity_Checker():
     
     response = urllib.urlopen(input_url)
     print(" ")
-    print("Connected To",input_url,"Succesfully")
+    print("Connected To",input_url,"Successfully")
     print(" ")
     print("The Response Code Was: ",response.getcode())
 
